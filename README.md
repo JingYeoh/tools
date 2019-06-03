@@ -9,4 +9,6 @@ python android/extract_apk.py {apk_path} {output_dir}
 
 ## 查找工具
 **jar 文件内容查找脚本**
+```
 python search/search_in_jar.py {dir/jar_path} {"search_info"}
+```
